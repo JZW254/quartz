@@ -1,61 +1,48 @@
 ---
-title: '2026 Week XX: AutoCAD Self-Learning Week X Summary'
+title: "2026 Week XX: AutoCAD Self-Learning Week X Summary"
 date: 2026-04-XX
-tags: [autocad, learning, weekly, skill-development]
+tags:
+  - autocad
+  - learning
+  - weekly
 ---
 
 # 2026 Week XX: AutoCAD Self-Learning Week X Summary
 
 **Overall Learning Goal**  
-Self-studying AutoCAD from scratch. Plan to complete the basic course in 4 weeks and take the Elementary CAD Certificate exam from the China Society of Drafting in late May.
+Acquire practical AutoCAD skills and pass the Elementary CAD Certificate exam by the end of June 2026.
 
-**Monthly Learning Goal**  
-Self-studying AutoCAD from scratch. Plan to complete the basic course in 4 weeks and take the Elementary CAD Certificate exam from the China Society of Drafting in late May.
-
-**Weekly Learning Goal**  
-Self-studying AutoCAD from scratch. Plan to complete the basic course in 4 weeks and take the Elementary CAD Certificate exam from the China Society of Drafting in late May.
-
-**This Week's Input**  
-- Daily study: 1 hour  
-- Total this week: XX hours  
-- Overall progress: approximately XX%
+**This Week’s Input**  
+- Studied X days  
+- Daily study time: X hours  
+- **Total: XX hours**  
+- Overall progress: ~XX%
 
 **Key Learnings This Week**
 
-- Mastered the following core commands:  
-  - XXX, XXX, XXX  
-  - ...
+- 
+- 
+- 
 
-- Important improvements:  
-  - Can now independently draw XXX  
-  - Became familiar with XXX operations  
-  - ...
+**Important Improvements**
+- 
+- 
 
 **Challenges & Solutions**
 
-- Challenge: XXX  
-  Solution: XXX (e.g. made a shortcut cheat sheet, repeated practice, watched tutorial multiple times)
+- **Challenge**: 
+- **Solution**: 
 
-- Challenge: XXX  
-  Solution: XXX
+**Next Week’s Plan**
+- 
+- 
+- 
 
-**Next Week's Plan**
+**Weekly Reflection**
 
-- Main focus: XXX  
-- Specific tasks:  
-  - Learn XXX commands  
-  - Practice drawing XXX type of drawings  
-- Target progress: XX%
-
-**Connection to Career Goal**  
-Although my current role is Assembly Electrician, learning AutoCAD helps me better understand technical drawings and participate in automation equipment installation and modification. This is a concrete step in my transition from electrician to **Automation Technician**. In the future, being able to read and create CAD drawings will be a very practical skill in the manufacturing industry in Europe, Canada, Australia, or New Zealand.
-
-**Weekly Reflection**  
-（這裡寫你真實的感受，例如堅持每天學習的體會、哪裡比想像中難、哪裡有成就感、對自己的鼓勵等）
+（這裡寫這週最真實的感受、發現、或習慣改變。可以寫得比較自由）
 
 ---
 
-**Related Links**  
-- [[Skills]]  
-- [[German-Learning]]  
-- [[Work-Reflections]]
+**Connection to Career Goal**  
+（這段可以每週微調，保持和目前階段一致）

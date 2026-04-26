@@ -10,7 +10,7 @@ tags:
 # 2026 Week 17: AutoCAD Self-Learning Week 1 Summary
 
 **Overall Learning Goal**  
-Acquire practical AutoCAD skills and pass the Elementary CAD Certificate exam from the China Society of Drafting by the end of May 2026.
+Acquire practical AutoCAD skills and pass the Elementary CAD Certificate exam from the China Society of Drafting by the end of June 2026.
 
 **This Week's Input**  
 - Studied 3 days this week  

@@ -48,5 +48,5 @@ tags: [autocad, learning, weekly]
 
 **相關連結**
 - [[Skills]]
-- [[German-Learning]]
+- [[2026-04-26-german-week1]]
 - [[Work-Reflections]]

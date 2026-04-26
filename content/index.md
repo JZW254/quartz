@@ -16,7 +16,7 @@ This site serves two purposes:
 ### Main Sections
 - [[About]] — My background and motivation
 - [[Skills]] — Current skills and learning progress
-- [[German-Learning]] — German learning journey (A1 → target C1)
+- [[2026-04-26-german-week1]] — German learning journey (A1 → target C1)
 - [[Work-Reflections]] — Monthly work + learning reflections
 
 Feel free to explore my journey!
