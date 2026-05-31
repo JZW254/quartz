@@ -37,7 +37,6 @@ Acquire practical AutoCAD skills and pass the Elementary CAD Certificate exam by
 **Next Week’s Plan**
 - Practice past exam papers every two days, focusing on improving drawing speed for 2D shapes
 - Continue strengthening high-scoring topics
-- Register for the official exam
 
 **Weekly Reflection**
 

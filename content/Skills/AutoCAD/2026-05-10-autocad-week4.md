@@ -34,7 +34,6 @@ Acquire practical AutoCAD skills and pass the Elementary CAD Certificate exam by
 - **Solution**: Continue watching tutorial videos and practice with simple mechanical parts to build familiarity.
 
 **Next Week’s Plan**
-- Register for the Elementary CAD Certificate exam
 - Deepen my knowledge of orthographic projections and section views
 - Collect and start practicing with past exam papers
 
